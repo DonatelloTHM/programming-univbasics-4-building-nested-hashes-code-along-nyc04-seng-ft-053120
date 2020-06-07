@@ -13,10 +13,8 @@ def fourth_challenge
       {
         :name=>"Mercutio",
         :age=>"18",
-        :attitude=>"worried"
+        :attitude=>"hot-headed"
       }
-
-        #your hashes here!
       ]
    },
    :capulet => {
