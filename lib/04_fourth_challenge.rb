@@ -29,7 +29,7 @@ def fourth_challenge
       {
         :name=>"Nurse",
         :age=>"44",
-        :attitude=>"confused"
+        :attitude=>"worried"
       }
         #your hashes here!
       ]
